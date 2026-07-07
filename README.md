@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ## What I'm into
 
 - Software engineering
+- Integrating LLMs advantages in my software development workflow
+- Code quality
 - Linux & self-hosting
 - Security topics
 - Privacy
