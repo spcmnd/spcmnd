@@ -1,4 +1,4 @@
-## Hi, I'm Lilian. I build things... sometimes.
+## Hi, I'm Lilian. I build some things....
 
 <!--
 **spcmnd/spcmnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
