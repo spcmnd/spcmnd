@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Software engineering is my daily job for more than 10 years. I like solving problems and give to end users the best solution possible.
-- 🔭 Currently working on [heyv](https://github.com/spcmnd/heyv). An app designed to solve my family everyday problems through technology.
+- 🔭 Currently working on [heyv](https://github.com/spcmnd/heyv) and on a health private project.
 - 🌱 Everyday learner.
-- 📫 How to reach me: spacemind.dev@gmail.com
+- 📫 Reach me there: spacemind.dev@gmail.com
 
 ## What I'm into
 
